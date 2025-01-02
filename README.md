@@ -34,4 +34,4 @@ Software Engineer
     <img style = "width:10%; height:10%;" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="leetcode Badge"/>
   </a>
   
-![LeetCode Stats](https://leetcode.card.workers.dev/williyam64?theme=auto&font=baloo&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/williyam64?theme=dark&font=Karma&ext=heatmap)
